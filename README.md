@@ -1,2 +1,2 @@
 # Git-practice
-C is best 
+C is all time best language
